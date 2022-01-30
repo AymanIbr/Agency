@@ -30,7 +30,7 @@
                 <p>Category</p>
               </div>
               <div class="icon">
-                <i class="ion ion-bag"></i>
+                <i class="nav-icon fas fa-list-alt "></i>
               </div>
               <a href="{{route('categories.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -45,7 +45,7 @@
                 <p>Portfolio</p>
               </div>
               <div class="icon">
-                <i class="ion ion-stats-bars"></i>
+                <i class="nav-icon fas fa-briefcase "></i>
               </div>
               <a href="{{route('portfolios.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -60,7 +60,7 @@
                 <p>Services</p>
               </div>
               <div class="icon">
-                <i class="ion ion-person-add"></i>
+                <i class="nav-icon fas fa-concierge-bell "></i>2
               </div>
               <a href="{{route('services.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
@@ -75,7 +75,7 @@
                 <p>Team</p>
               </div>
               <div class="icon">
-                <i class="ion ion-pie-graph"></i>
+                <i class="nav-icon fas fa-user-friends "></i>
               </div>
               <a href="{{route('teams.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
